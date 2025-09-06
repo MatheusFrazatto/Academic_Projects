@@ -1,4 +1,4 @@
-# 🌳 Trabalho 2 - Árvores Binárias de Busca Balanceadas (AVL)  
+# 🌳 Trabalho 2 / ED - Árvores Binárias de Busca Balanceadas (AVL)  
 
 Este projeto foi desenvolvido para a disciplina **Estrutura de Dados** da Universidade Estadual de Maringá, com o objetivo de aplicar conceitos de **árvores binárias de busca balanceadas (AVL)**.  
 
