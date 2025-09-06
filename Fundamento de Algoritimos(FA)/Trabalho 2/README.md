@@ -20,6 +20,6 @@ Construir um programa capaz de processar os dados das **Olimpíadas de Paris 202
 - Empregar **passagem de parâmetros por referência** quando necessário.  
 - Evitar o uso de funções prontas além das vistas em sala.  
 - Executar o programa informando o arquivo de dados como parâmetro:  
-
+---
 ```bash
 python3 Medalhas_Olímpicas.py medals.csv
