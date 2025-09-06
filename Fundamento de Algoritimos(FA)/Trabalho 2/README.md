@@ -22,4 +22,4 @@ Construir um programa capaz de processar os dados das **Olimpíadas de Paris 202
 - Executar o programa informando o arquivo de dados como parâmetro:  
 
 ```bash
-python3 medalhas.py medals.csv
+python3 Medalhas_Olímpicas.py medals.csv
