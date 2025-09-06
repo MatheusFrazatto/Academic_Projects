@@ -1,4 +1,4 @@
-# 🎬 Trabalho 1 - Organização e Recuperação de Dados  
+# 🎬 Trabalho 1 / ORD - Gerenciador de Registros
 
 Este projeto foi desenvolvido para a disciplina **Organização e Recuperação de Dados** da Universidade Estadual de Maringá, com o objetivo de aplicar conceitos de **manipulação de arquivos binários e gerenciamento de espaços disponíveis (LED)** em Python.  
 
