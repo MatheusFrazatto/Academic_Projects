@@ -1,4 +1,4 @@
-# 🏦 Trabalho 1 - Fila de Atendimento em Banco  
+# 🏦 Trabalho 1 / ED - Fila de Atendimento em Banco  
 
 Este projeto foi desenvolvido para a disciplina **Estrutura de Dados** da Universidade Estadual de Maringá, com o objetivo de aplicar conceitos de TADs e estruturas de dados lineares.  
 
