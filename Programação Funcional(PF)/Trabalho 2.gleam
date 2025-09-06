@@ -7,38 +7,37 @@ pub type Tempo {
 
 pub fn conv(t: Tempo) -> String {
   case t {
-    Tempo(a, b, c) ->
-      int.to_string(t.horas)
-      <> " hora(s)"
-      <> int.to_string(t.minutos)
-      <> " minutos(s)"
-      <> int.to_string(t.segundos)
-      <> " segunos(s)"
+    Tempo(0, 0, c) -> int.to_string(c) <> " segundo(s)"
+    Tempo(0, b, 0) -> int.to_string(b) <> " minuto(s)"
+    Tempo(a, 0, 0) -> int.to_string(a) <> " hora(s)"
     Tempo(0, b, c) ->
-      int.to_string(t.minutos)
-      <> " minutos(s)"
-      <> int.to_string(t.segundos)
-      <> " segunos(s)"
+      int.to_string(b)
+      <> " minuto(s) "
+      <> int.to_string(c)
+      <> " segundo(s)"
     Tempo(a, 0, c) ->
-      int.to_string(t.horas)
-      <> " hora(s)"
-      <> int.to_string(t.segundos)
-      <> " segunos(s)"
+      int.to_string(a)
+      <> " hora(s) "
+      <> int.to_string(c)
+      <> " segundo(s)"
     Tempo(a, b, 0) ->
-      int.to_string(t.horas)
-      <> " hora(s)"
-      <> int.to_string(t.minutos)
-      <> " minutos(s)"
-    Tempo(0, b, 0) -> int.to_string(t.minutos) <> " minutos(s)"
-    Tempo(0, 0, c) -> int.to_string(t.segundos) <> " segunos(s)"
-    Tempo(a, 0, 0) -> int.to_string(t.horas) <> " hora(s)"
+      int.to_string(a)
+      <> " hora(s) "
+      <> int.to_string(b)
+      <> " minuto(s)"
+    Tempo(a, b, c) ->
+      int.to_string(a)
+      <> " hora(s) "
+      <> int.to_string(b)
+      <> " minuto(s) "
+      <> int.to_string(c)
+      <> " segundo(s)"
   }
 }
-
 pub fn conv_examples() {
-  check.eq(conv(Tempo(12, 12, 12)), "12 hora(s)12 minutos(s)12 segunos(s)")
-  check.eq(conv(Tempo(12, 0, 12)), "12 hora(s)0 minutos(s)12 segunos(s)")
-  check.eq(conv(Tempo(12, 12, 0)), "12 hora(s)12 minutos(s)0 segunos(s)")
+  check.eq(conv(Tempo(12, 12, 12)), "12 hora(s) 12 minuto(s) 12 segundo(s)")
+  check.eq(conv(Tempo(12, 0, 12)), "12 hora(s) 12 segundo(s)")
+  check.eq(conv(Tempo(12, 12, 0)), "12 hora(s) 12 minuto(s)")
 }
 
 pub type Tipo {
