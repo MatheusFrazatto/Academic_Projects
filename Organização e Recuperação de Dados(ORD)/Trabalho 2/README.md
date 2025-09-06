@@ -1,4 +1,4 @@
-# 🔑 Trabalho 2 - Hashing Extensível  
+# 🔑 Trabalho 2 / ORD - Hashing Extensível  
 
 Este projeto foi desenvolvido para a disciplina **Organização e Recuperação de Dados** da Universidade Estadual de Maringá, com o objetivo de implementar um sistema de **hashing extensível** para armazenamento e gerenciamento de chaves numéricas.  
 
