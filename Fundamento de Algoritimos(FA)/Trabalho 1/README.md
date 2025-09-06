@@ -24,3 +24,4 @@ Criar um sistema em terminal para gerenciar e analisar as vendas de tíquetes do
 - Criar funções com propósito definido e exemplos de uso (doctest).  
 - Empregar estruturas básicas da linguagem: entrada/saída, variáveis, operadores, condicionais, laços de repetição.  
 - Manipulação de strings e listas.  
+---
