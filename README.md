@@ -1,28 +1,32 @@
 # 📚 Academic Projects  
 
-Este repositório reúne os principais **trabalhos acadêmicos** desenvolvidos ao longo da graduação em **Engenharia de Software** na Universidade Estadual de Maringá (UEM).  
-Os projetos exploram diferentes paradigmas e disciplinas de programação, desde algoritmos básicos até estruturas de dados avançadas e organização de arquivos.  
+This repository gathers the main **academic projects** I developed during my **Software Engineering** degree at the State University of Maringá (UEM).  
+The projects cover a variety of programming paradigms and disciplines, ranging from basic algorithms to advanced data structures and file management systems.  
 
-## 🛠️ Tecnologias utilizadas
+---
+
+## 🛠️ Technologies Used
 - **Python**
 - **Gleam**
 
-## 📂 Projetos Acadêmicos
+---
 
-Repositório com meus trabalhos acadêmicos em Python, mostrando automação, estruturas de dados, algoritmos e organização de registros.
+## 📂 Academic Projects
 
-| Projeto | Descrição | Linguagem | Link |
+These projects showcase my skills in Python and Gleam, including automation, data structures, algorithms, and file organization.
+
+| Project | Description | Language | Link |
 |---------|-----------|-----------|------|
-| 🧾 Controle de Vendas do RU | Projeto de algoritmos para controle de vendas do Restaurante Universitário. | Python | [Acessar](<./Fundamento de Algoritimos(FA)/Trabalho 1>) |
-| 🏅 Levantamento de Medalhas Olímpicas | Manipulação e análise de dados para medalhas olímpicas, com lógica de algoritmos. | Python | [Acessar](<./Fundamento de Algoritimos(FA)/Trabalho 2>) |
-| 🏦 Fila de Atendimento em Banco | Estrutura de dados para simulação de filas e atendimento em banco. | Python | [Acessar](<./Estrutura de Dados(ED)/Trabalho 1>) |
-| 🌳 Árvores Binárias de Busca Balanceadas | Implementação de árvores balanceadas e operações de busca eficientes. | Python | [Acessar](<./Estrutura de Dados(ED)/Trabalho 2>) |
-| 📁 Gerenciador de Registros | Projeto de Organização e Recuperação de Dados, manipulação de arquivos e registros. | Python | [Acessar](<./Organização e Recuperação de Dados(ORD)/Trabalho 1>) |
-| 🔐 Hashing Extensível | Implementação de hashing extensível com manipulação de buckets e diretórios em arquivos binários. | Python | [Acessar](<./Organização e Recuperação de Dados(ORD)/Trabalho 2>) |
-| 📝 Exercícios introdutórios | Exercícios de funções recursivas, mapeamento e filtragem de listas. | Gleam | [Acessar](<./Programacao Funcional/Trabalho 1>) |
-| 📝 tipos e pattern matching | Exercícios de composição de funções e uso de funções de alta ordem. | Gleam | [Acessar](<./Programacao Funcional/Trabalho 2>) |
-| 📝 composição de funções e boas práticas | Exercícios variados incluindo fold, reduce e manipulação de dados imutáveis. | Gleam | [Acessar](<./Programacao Funcional/Trabalho 3>) |
-
+| 🧾 RU Sales Management | Algorithm project for managing sales at the University Restaurant. | Python | [Access](<./Fundamento de Algoritimos(FA)/Trabalho 1>) |
+| 🏅 Olympic Medals Analysis | Data manipulation and analysis of Olympic medals, applying algorithmic logic. | Python | [Access](<./Fundamento de Algoritimos(FA)/Trabalho 2>) |
+| 🏦 Bank Queue Simulation | Data structure project simulating queues and customer service at a bank. | Python | [Access](<./Estrutura de Dados(ED)/Trabalho 1>) |
+| 🌳 Balanced Binary Search Trees | Implementation of balanced BSTs and efficient search operations. | Python | [Access](<./Estrutura de Dados(ED)/Trabalho 2>) |
+| 📁 Record Manager | File management and record handling project in the context of data organization and retrieval. | Python | [Access](<./Organização e Recuperação de Dados(ORD)/Trabalho 1>) |
+| 🔐 Extendible Hashing | Implementation of extendible hashing with bucket and directory management in binary files. | Python | [Access](<./Organização e Recuperação de Dados(ORD)/Trabalho 2>) |
+| 📝 Introductory Exercises | Exercises on recursive functions, mapping, and list filtering. | Gleam | [Access](<./Programacao Funcional/Trabalho 1>) |
+| 📝 Types & Pattern Matching | Exercises on function composition and higher-order functions. | Gleam | [Access](<./Programacao Funcional/Trabalho 2>) |
+| 📝 Function Composition & Best Practices | Varied exercises including fold, reduce, and immutable data manipulation. | Gleam | [Access](<./Programacao Funcional/Trabalho 3>) |
 
 ---
-📌 Este repositório serve como portfólio de aprendizado, demonstrando a evolução prática em diferentes áreas da computação.
+
+📌 This repository serves as a **learning portfolio**, demonstrating my practical evolution across different areas of computer science.
