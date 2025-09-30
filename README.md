@@ -1,5 +1,8 @@
 # 📚 Academic Projects  
 
+![Python](https://img.shields.io/badge/Python-3.11+-blue?style=for-the-badge&logo=python)
+![Gleam](https://img.shields.io/badge/Gleam-0.23+-7f52ff?style=for-the-badge)
+
 This repository gathers the main **academic projects** I developed during my **Software Engineering** degree at the State University of Maringá (UEM).  
 The projects cover a variety of programming paradigms and disciplines, ranging from basic algorithms to advanced data structures and file management systems.  
 
