@@ -73,3 +73,4 @@ pub fn rotacionar_direita_examples() {
   check.eq(rotacionar_direita("Matheus", 7), "Matheus")
 }
 
+
