@@ -26,9 +26,9 @@ These projects showcase my skills in Python and Gleam, including automation, dat
 | 🌳 Balanced Binary Search Trees | Implementation of balanced BSTs and efficient search operations. | Python | [Access](<./Estrutura de Dados(ED)/Trabalho 2>) |
 | 📁 Record Manager | File management and record handling project in the context of data organization and retrieval. | Python | [Access](<./Organização e Recuperação de Dados(ORD)/Trabalho 1>) |
 | 🔐 Extendible Hashing | Implementation of extendible hashing with bucket and directory management in binary files. | Python | [Access](<./Organização e Recuperação de Dados(ORD)/Trabalho 2>) |
-| 📝 Introductory Exercises | Exercises on recursive functions, mapping, and list filtering. | Gleam | [Access](<./Programacao Funcional/Trabalho 1>) |
-| 📝 Types & Pattern Matching | Exercises on function composition and higher-order functions. | Gleam | [Access](<./Programacao Funcional/Trabalho 2>) |
-| 📝 Function Composition & Best Practices | Varied exercises including fold, reduce, and immutable data manipulation. | Gleam | [Access](<./Programacao Funcional/Trabalho 3>) |
+| 📝 Introductory Exercises | Exercises on recursive functions, mapping, and list filtering. | Gleam | [Access](<./Programação Funcional(PF)>) |
+| 📝 Types & Pattern Matching | Exercises on function composition and higher-order functions. | Gleam | [Access](<./Programação Funcional(PF)>) |
+| 📝 Function Composition & Best Practices | Varied exercises including fold, reduce, and immutable data manipulation. | Gleam | [Access](<./Programação Funcional(PF)>) |
 
 ---
 
